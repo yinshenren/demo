@@ -1,0 +1,6 @@
+.login {
+    position: absolute;
+    bottom: 70%;
+    right: 50%;
+    transform: translateX(50%) translateY(50%);
+}

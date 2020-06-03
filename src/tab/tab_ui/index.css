@@ -1,0 +1,21 @@
+.tab_text {
+    position: absolute;
+    bottom: 50%;
+    right: 50%;
+    transform: translateX(50%);
+    background-color: skyblue;
+}
+.tab_text .tab_header {
+    display: flex;
+}
+.tab_text .tab_header .tab_top {
+    min-width: 50px;
+    text-align: center;
+    background-color: green;
+}
+.tab_text .tab_header .tab_top.active {
+    background-color: red;
+}
+.tab_text .tab_body {
+    min-height: 100px;
+}

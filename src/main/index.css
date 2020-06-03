@@ -1,0 +1,14 @@
+.main {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main .tab {
+    width: 100px;
+    height: 100px;
+}
+.main .list {
+    width: 100px;
+    height: 100px;
+}
